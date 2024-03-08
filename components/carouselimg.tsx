@@ -25,7 +25,7 @@ export function CarouselPlugin(
     return (
       <Carousel
         plugins={[plugin.current]}
-        className=" w-[95%] "
+        className=" w-full "
         opts={{loop:true}}
       >
             <CarouselContent>
