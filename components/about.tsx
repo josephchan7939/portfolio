@@ -24,7 +24,7 @@ export default function About() {
         After several years of working in Java and C++ development,
          I discovered my passion for web development. I learned{" "}
         <span className="font-medium">full-stack web development and
-        devote myself to web development for above five years</span>.{" "}
+        devote myself to web development for above two years</span>.{" "}
         <span className="italic">My favorite part of programming</span> is the
         problem-solving aspect. I <span className="underline">love</span> the
         feeling of finally figuring out a solution to a problem. My core stack
